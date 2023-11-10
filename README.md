@@ -1,0 +1,2 @@
+# Windows-MacOS-pymol-
+由于目前PyMol应用程序已经被Schrödingerg公司收购，因此想要使用最新版本的PyMol是需要付费的。但PyMol最早是由Warren Lyford DeLano 开发的，在其生前一直坚持开源使用PyMol。所以公司也保留开源版本的PyMol供用户使用。在PyMol 2.1版本之前的版本是可以从SourceForge下载到的，然而后面更新的版本都转移到了GitHub。因此本文记下了本人尝试成功的安装开源pymol的方法供大家参考，有兴趣的小伙伴可以试一下。
